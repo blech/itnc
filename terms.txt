@@ -2,12 +2,24 @@ Terms and Conditions and Apple Privacy Policy
 
 The changes we have made to the terms and conditions include the following:
 
-=E2=80=A2  A new =E2=80=9CIn-App Subscriptions=E2=80=9D section has been ad=
-ded to the Terms and Conditions to explain how in-app subscriptions auto-re=
-new, how the auto-renewal can be managed and turned off, that you are entit=
-led to a pro-rated refund if you choose to cancel your subscription within =
-fourteen calendar days of purchase, and that we may request permission to p=
-rovide personal information to the Publisher for marketing purposes.
+=E2=80=A2  Notification that, except in the case of an in-app purchase, onc=
+e your Account has been authenticated using your password, you will not hav=
+e to enter your password again for other purchases made within 15 minutes; =
+once an in-app purchase has been authenticated no further authentication wi=
+ll be required for in-app purchases made within 15 minutes;
+
+=E2=80=A2  New terms and conditions have been added to explain the basis on=
+ which some content can be downloaded automatically to multiple computers a=
+nd iOS devices by associating those devices with a given Account, and the s=
+ubsequent downloading of certain previously purchased content as an accommo=
+dation to you; there are limitations on the number and type of computers an=
+d devices that can be associated with an Account for this purpose, as well =
+as on how frequently a computer or device can be associated with a differen=
+t Account; a device can only be associated with one Account at a time.
+
+=E2=80=A2  Notification that iBookstore purchases that are made on a comput=
+er will not be viewable on any computer, but will require an iOS device wit=
+h compatible software to be viewed.
 
 
 
@@ -21,13 +33,13 @@ D. PRIVACY POLICY
 
 THE LEGAL AGREEMENTS SET OUT BELOW ARE BETWEEN YOU AND ITUNES SARL (=E2=80=
 =9CITUNES") AND GOVERN YOUR USE OF THE ITUNES STORE, MAC APP STORE, APP STO=
-RE, AND IBOOKSTORE. TO AGREE TO THESE TERMS, CLICK "AGREE." IF YOU DO NOT A=
-GREE TO THESE TERMS, DO NOT CLICK "AGREE," AND DO NOT USE THE ITUNES STORE,=
- MAC APP STORE, APP STORE OR IBOOKSTORE. THIS AGREEMENT APPLIES WITHOUT PRE=
-JUDICE TO SOFTWARE LICENCES THAT YOU MAY HAVE ENTERED INTO, SUCH AS FOR THE=
- USE OF THE ITUNES APPLICATION.
+RE AND IBOOKSTORE. TO AGREE TO THESE TERMS, CLICK "AGREE." IF YOU DO NOT AG=
+REE TO THESE TERMS, DO NOT CLICK "AGREE," AND DO NOT USE THE ITUNES STORE, =
+MAC APP STORE, APP STORE OR IBOOKSTORE. THIS AGREEMENT APPLIES WITHOUT PREJ=
+UDICE TO SOFTWARE LICENCES THAT YOU MAY HAVE ENTERED INTO, SUCH AS FOR THE =
+USE OF THE ITUNES APPLICATION.
 
-A. ITUNES STORE, MAC APP STORE, APP STORE, AND IBOOKSTORE TERMS OF SALE
+A. ITUNES STORE, MAC APP STORE, APP STORE AND IBOOKSTORE TERMS OF SALE
 
 PAYMENTS, TAXES, AND REFUND POLICY
 
@@ -68,13 +80,13 @@ VAT (in effect on the day of download).
 You have the right to withdraw from your transaction without charge and wit=
 hout giving any reason until delivery of the product has started. You do no=
 t have the right to withdraw from a transaction once delivery of the produc=
-t has started at which point your transaction is final. The Store services =
-commence immediately when you begin to download a product from the relevant=
- Store and you will not have a right to cancel your contract once the servi=
-ce commences unless you have received an unacceptably poor download. If thi=
-s happens, you must tell us as soon as possible using the =E2=80=9CReport a=
- Problem=E2=80=9D link in your invoice, and if the poor download is caused =
-by iTunes and cannot be resolved, a refund may be provided.
+t has started at which point your transaction is final. The Stores=E2=80=99=
+ services commence immediately when you begin to download a product from th=
+e relevant Store and you will not have a right to cancel your contract once=
+ the services commence unless you have received an unacceptably poor downlo=
+ad. If this happens, you must tell us as soon as possible using the =E2=80=
+=9CReport a Problem=E2=80=9D link in your invoice, and if the poor download=
+ is caused by iTunes and cannot be resolved, a refund may be provided.
 
 Until a purchase is made, iTunes reserves the right to change prices for pr=
 oducts offered via the Stores at any time, and the Stores do not provide pr=
@@ -117,21 +129,36 @@ Gift Certificates, iTunes Cards, Content Codes, and Allowances purchased in=
 ingdom.
 
 iTunes is not responsible for lost or stolen Gift Certificates, iTunes Card=
-s, Content Codes, or Allowances.
+s, Content Codes, or Allowances.  Risk of loss and title for Gift Certifica=
+tes, iTunes Cards, and Allowances that are transmitted electronically pass =
+to the purchaser in the United Kingdom upon electronic transmission.  Risk =
+of loss and title for Content Codes that are transmitted electronically pas=
+s from iTunes in Luxembourg upon electronic transmission.
 
 iTunes reserves the right to close accounts and request alternative forms o=
 f payment if a Gift Certificate, iTunes Card, Content Code, or Allowance is=
  fraudulently obtained or used on the Stores.
-
-Risk of loss and title for Gift Certificates, iTunes Cards, and Allowances =
-transmitted electronically pass to the purchaser in the United Kingdom upon=
- electronic transmission to the recipient.
 
 GIFTS
 
 Gifts purchased from the Stores may be purchased only for, and redeemed onl=
 y by, persons in the United Kingdom. Gift recipients must have compatible h=
 ardware and parental control settings to utilize some gifts.
+
+IMPORTANT SAFETY INFORMATION
+
+To avoid muscle, joint, or eye strain during your use of the products offer=
+ed through the Stores, you should always take frequent breaks, and take a l=
+onger rest if you experience any soreness, fatigue, or discomfort. A very s=
+mall percentage of people may experience seizures or blackouts when exposed=
+ to flashing lights or patterns, including but not limited to while playing=
+ video games or watching videos. Symptoms may include dizziness, nausea, in=
+voluntary movements, loss of awareness, altered vision, tingling, numbness,=
+ or other discomforts. Consult a doctor before using the products offered t=
+hrough the Stores if you have ever suffered these or similar symptoms, and =
+stop using such products immediately and see a doctor if they occur during =
+your use of such products. Parents should monitor their children=E2=80=99s =
+use of the products offered through the Stores for signs of symptoms.=20
 
 PRE-ORDERS
 
@@ -158,12 +185,12 @@ B. ITUNES STORE TERMS AND CONDITIONS
 THIS LEGAL AGREEMENT BETWEEN YOU AND ITUNES SARL. ("ITUNES") GOVERNS YOUR U=
 SE OF THE ITUNES STORE SERVICE (THE =E2=80=9CSERVICE=E2=80=9D).
 
-THE ITUNES STORE SERVICE
+THE ITUNES STORE SERVICE=20
 
 iTunes is the provider of the Service, which permits you to purchase or ren=
-t a licence for digital content ("Products") for end user use only under th=
-e terms and conditions set forth in this Agreement. iTunes is not the provi=
-der of the iTunes application or of the iPad, iPod or iPhone.
+t a licence for digital content ("iTunes Products") for end user use only u=
+nder the terms and conditions set forth in this Agreement. iTunes is not th=
+e provider of the iTunes application or of the iPad, iPod or iPhone.
 
 REQUIREMENTS FOR USE OF THE SERVICE
 
@@ -181,12 +208,12 @@ n software (fees may apply); may require periodic updates; and may be affec=
 ted by the performance of these factors. High-speed Internet access is stro=
 ngly recommended for regular use and is required for Film Rentals. The late=
 st version of the iTunes software is recommended to access the Service and =
-may be required for certain transactions or features and to download Produc=
-ts previously purchased from the Service. You agree that these requirements=
-, which may change from time to time, are your responsibility. The Service =
-is not part of any other product or offering, and no purchase or obtaining =
-of any other product shall be construed to represent or guarantee you acces=
-s to the Service.
+may be required for certain transactions or features and to download iTunes=
+ Products previously purchased from the Service. You agree that meeting the=
+se requirements, which may change from time to time, is your responsibility=
+. The Service is not part of any other product or offering, and no purchase=
+ or obtaining of any other product shall be construed to represent or guara=
+ntee you access to the Service.
 
 YOUR ACCOUNT
 
@@ -198,6 +225,15 @@ ou agree to immediately notify iTunes of any security breach of your Accoun=
 t. iTunes shall not be responsible for any losses arising out of the unauth=
 orised use of your Account.
 
+In order to purchase and download iTunes Products from the Service, you mus=
+t enter your Apple ID and password to authenticate your Account.  Once you =
+have authenticated your Account, you will not need to authenticate again fo=
+r fifteen minutes. During this time, you will be able to purchase and downl=
+oad iTunes Products without re-entering your password.  You can turn off th=
+e ability to make iTunes Product purchases by adjusting the settings on you=
+r computer or iOS Device.  For more information, please see http://support.=
+apple.com/kb/HT1904 or http://support.apple.com/kb/HT4213.
+
 You agree to provide accurate and complete information when you register wi=
 th, and as you use, the Service ("Registration Data"), and you agree to upd=
 ate your Registration Data to keep it accurate and complete. You agree that=
@@ -206,17 +242,17 @@ taining and billing fees to your Account.
 
 PRIVACY
 
-Except as otherwise stated in this Agreement, the Service is subject to App=
-le's Privacy Policy at http://www.apple.com/uk/privacy/.
+The Service is subject to Apple's Privacy Policy at http://www.apple.com/uk=
+/privacy/.
 
 When you opt in to the Genius feature, Apple will, from time to time, autom=
 atically collect information that can be used to identify media in your iTu=
 nes library on this computer, such as your play history and playlists. This=
  includes media purchased through iTunes and media obtained from other sour=
-ces. This information will be stored anonymously and not associated with yo=
-ur name or iTunes Account. When you use the Genius feature, Apple will use =
-this information and the contents of your iTunes library, as well as other =
-information, to give personalized recommendations to you.
+ces. This information will be stored anonymously and will not be associated=
+ with your name or Account. When you use the Genius feature, Apple will use=
+ this information and the contents of your iTunes library, as well as other=
+ information, to give personalized recommendations to you.
 
 Apple may only use this information and combine it with aggregated informat=
 ion from the iTunes libraries of other users who also opt in to this featur=
@@ -259,57 +295,59 @@ for particular features) without notice.
 
 USE OF PURCHASED OR RENTED CONTENT
 
-You agree that the Products are provided to you by way of a license only. Y=
-ou understand that the Service and certain Products include a security fram=
-ework using technology that protects digital information and limits your us=
-e of Products to certain usage rules (=E2=80=9CSecurity Framework=E2=80=9D)=
- established by iTunes and its licensors and that, whether or not Products =
-are limited by security technology, you shall use Products in compliance wi=
-th the applicable usage rules established by iTunes and its licensors (=E2=
-=80=9CUsage Rules=E2=80=9D), and that any other use of the Products may con=
-stitute a copyright infringement. Any security technology is an inseparable=
- part of the Products. iTunes reserves the right to modify the Usage Rules =
-for future purchases on the Service at any time. However, such changes will=
- not apply to Products that you have already purchased. Any change to the U=
-sage Rules will be communicated to you. In the event that you refuse to acc=
-ept the new Usage Rules, you will no longer be able to acquire Products fro=
-m the Service.
+You agree that the iTunes Products are provided to you by way of a license =
+only. You understand that the Service and certain iTunes Products include a=
+ security framework using technology that protects digital information and =
+limits your use of iTunes Products to certain usage rules (=E2=80=9CSecurit=
+y Framework=E2=80=9D) established by iTunes and its licensors and that, whe=
+ther or not iTunes Products are limited by security technology, you shall u=
+se iTunes Products in compliance with the applicable usage rules establishe=
+d by iTunes and its licensors (=E2=80=9CUsage Rules=E2=80=9D), and that any=
+ other use of the iTunes Products may constitute a copyright infringement. =
+Any security technology is an inseparable part of the iTunes Products. iTun=
+es reserves the right to modify the Usage Rules for future purchases on the=
+ Service at any time. However, such changes will not apply to iTunes Produc=
+ts that you have already purchased. Any change to the Usage Rules will be c=
+ommunicated to you. In the event that you refuse to accept the new Usage Ru=
+les, you will no longer be able to acquire iTunes Products from the Service=
+.
 
 USAGE RULES
 
-(i) You shall be authorised to use Products only for personal, noncommercia=
-l use. For details of your rights and restrictions on your rights to use th=
-e Products, see:
+(i) You shall be authorised to use iTunes Products only for personal, nonco=
+mmercial use. For details of your rights and restrictions on your rights to=
+ use the iTunes Products, see:
 
 =E2=80=A2 www.prsformusic.com
-=E2=80=A2 www.warnerchappell.com/pedl/pedl.jsp
+=E2=80=A2 www.warnerchappell.com/wcmuk/pedl.jsp
 =E2=80=A2 www.sacem.fr
 =E2=80=A2 www.sdrm.fr
 =E2=80=A2 www.sesam.org
 
-(ii) You shall be authorised to use Products on five computers with the iTu=
-nes application installed at any time, except for Film Rentals (see below).
+(ii) You shall be authorised to use iTunes Products on five computers with =
+the iTunes application installed at any time, except for Film Rentals (see =
+below).
 
-(iii) You shall be able to store Products from up to five different Account=
-s at a time on compatible devices, such as an iPad, iPod, iPhone and Apple =
-TV, provided that each iPhone may sync ringtone Products with only a single=
- iTunes-authorised device at a time, and syncing an iPhone with a different=
- iTunes-authorised device will cause ringtone Products stored on that iPhon=
-e to be erased.
+(iii) You shall be able to store iTunes Products from up to five different =
+Accounts at a time on compatible devices, such as an iPad, iPod, iPhone and=
+ Apple TV, provided that each iPhone may sync ringtone iTunes Products with=
+ only a single iTunes-authorised device at a time, and syncing an iPhone wi=
+th a different iTunes-authorised device will cause ringtone iTunes Products=
+ stored on that iPhone to be erased.
 
 (iv) You shall be authorised to burn an audio playlist up to seven times. Y=
-ou may use the audio CD to which you have burned your Products in the same =
-ways in which you may use an audio CD purchased from a retail store, subjec=
-t to United Kingdom copyright laws.
+ou may use the audio CD to which you have burned your iTunes Products in th=
+e same ways in which you may use an audio CD purchased from a retail store,=
+ subject to United Kingdom copyright laws.
 
-(v) You shall not be entitled to burn video Products or ringtone Products o=
-ther than for backup purposes, which video Product backups will play via th=
-e iTunes application.
+(v) You shall not be entitled to burn video iTunes Products or ringtone iTu=
+nes Products other than for backup purposes, which video iTunes Product bac=
+kups will play via the iTunes application.
 
 (vi) iTunes Plus Products do not contain security technology that limits yo=
-ur usage of such Products, and Usage Rules (ii) =E2=80=93 (v) do not apply =
-to iTunes Plus Products. You may copy, store, and burn iTunes Plus Products=
- as reasonably necessary for personal, noncommercial use.
+ur usage of such iTunes Products, and Usage Rules (ii) =E2=80=93 (v) do not=
+ apply to iTunes Plus Products. You may copy, store, and burn iTunes Plus P=
+roducts as reasonably necessary for personal, noncommercial use.
 
 (vii) You shall be able to manually sync a film from at least one iTunes-au=
 thorised device to devices that have manual sync mode, provided that the fi=
@@ -326,49 +364,49 @@ d over HDMI.
 (a) Film rentals are viewable on only one device at a time. You must be con=
 nected to the Service when moving film rentals, and you may do so only betw=
 een your computer and other compatible devices. Films rented using your App=
-le TV or iPad may not be moved. If you move a film to a compatible device a=
-nd then use the Service to restore that device, or choose Settings > Reset =
-> Erase all content and settings on that device, the film will be permanent=
-ly deleted.
+le TV or iPad, iPhone 4 or iPod touch may not be moved. If you move a film =
+to a compatible device and then use the Service to restore that device, or =
+choose Settings > Reset > Erase all content and settings on that device, th=
+e film will be permanently deleted.
 
 (b) You have thirty (30) days after downloading a film to begin viewing. On=
 ce you begin viewing, you have forty-eight (48) hours to finish viewing the=
  film. Stopping, pausing, or restarting a film does not extend the availabl=
 e time for viewing.
 
-Products may be downloaded only once and cannot be replaced if lost for any=
- reason. Once a Product is downloaded, it is your responsibility not to los=
-e, destroy, or damage it, and iTunes shall not be liable to you if you do s=
-o.
+Some iTunes Products, including but not limited to Film rentals, may be dow=
+nloaded only once and cannot be replaced if lost for any reason; it is your=
+ responsibility not to lose, destroy, or damage iTunes Products once downlo=
+aded, and to back them up.
 
-The delivery of Products does not transfer to you any commercial or promoti=
-onal use rights in the Products. Any burning or exporting capabilities are =
-solely an accommodation to you and shall not constitute a grant, waiver, or=
- other limitation of any rights of the copyright owners in any content embo=
-died in any Product.
+The delivery of iTunes Products does not transfer to you any commercial or =
+promotional use rights in the iTunes Products. Any burning or exporting cap=
+abilities are solely an accommodation to you and shall not constitute a gra=
+nt, waiver, or other limitation of any rights of the copyright owners in an=
+y content embodied in any iTunes Product.
 
-You acknowledge that some aspects of the Service, Products, and administrat=
-ion of the Usage Rules entails the ongoing involvement of iTunes.
+You acknowledge that some aspects of the Service, iTunes Products, and admi=
+nistration of the Usage Rules entails the ongoing involvement of iTunes.
 
 CONTENT SECURITY
 
 You agree not to violate, circumvent, reverse-engineer, decompile, disassem=
 ble, or otherwise tamper with any element of the Security Framework=E2=80=
 =94or to attempt or assist another person to do so. Notwithstanding any oth=
-er provisions, you are allowed to burn audio Products to CD, within the lim=
-its of the Usage Rules. The Usage Rules may be controlled and monitored by =
-iTunes for compliance purposes, and iTunes reserves the right to enforce th=
-e Usage Rules without notice to you.
+er provisions, you are allowed to burn audio iTunes Products to CD, within =
+the limits of the Usage Rules. The Usage Rules may be controlled and monito=
+red by iTunes for compliance purposes, and iTunes reserves the right to enf=
+orce the Usage Rules without notice to you.
 
 SERVICE SECURITY
 
-You agree not to access the Service by any means other than through softwar=
-e that is provided by Apple Inc. or its affiliated group companies (=E2=80=
-=9CApple=E2=80=9D) for accessing the Service. You shall not access or attem=
-pt to access an Account that you are not authorised to access. You agree no=
-t to modify the software that is provided by Apple to access the Service in=
- any manner or form, or to use modified versions of the software, for any p=
-urposes including obtaining unauthorised access to the Service. Violations =
+You agree not to access the Service by any means other than through use of =
+software provided by Apple Inc. or its affiliated group companies (=E2=80=
+=9CApple=E2=80=9D) for accessing the Service. You agree not to modify the s=
+oftware that is provided by Apple to access the Service in any manner or fo=
+rm, or to use modified versions of the software, for any purposes including=
+ obtaining unauthorised access to the Service. You shall not access or atte=
+mpt to access an Account that you are not authorised to access. Violations =
 of system or network security may result in civil or criminal liability.
 
 PING
@@ -376,30 +414,30 @@ PING
 If you opt in to Ping, you can share information with people who have also =
 opted in to Ping, such as your name, your image, and your interests. The na=
 me and image provided will also be associated with all reviews posted about=
- a Product via your Account, including posts prior to opting in. People who=
-m you have permitted to follow you will be able to see your activity on the=
- iTunes Store, such as events you are attending, music that you have indica=
-ted that you like, and purchases made with your Account. Your activity on a=
-nother user's profile, such as comments you make about their activity, is s=
-ubject to that user's privacy settings and can be viewed by all of that use=
-r's followers. You are solely responsible for the information that is assoc=
-iated with your Account that is made available on Ping. iTunes may also use=
- information provided, as well as information the iTunes Store sends to iTu=
-nes about the content you select in your iTunes library in order to provide=
- you with Ping personal recommendations, such as suggesting other users you=
- may want to follow, concerts and related information, or other Products yo=
-u may want to purchase. By opting in to Ping, you consent to the use of suc=
-h information in the manner described above. At all times your information =
-will be treated in accordance with Apple's Privacy Policy. You should not o=
-pt in to Ping, or should opt out of Ping in your Account settings, if you d=
-on't want others to view any information provided using your Account, inclu=
-ding activity on the iTunes Store. When you opt out, your information will =
-be removed from view, and then deleted after seven days. If you opt out of =
-Ping, or hide the Ping Sidebar, iTunes will no longer send information asso=
-ciated with the content you select in your iTunes library for Ping. You wil=
-l be able to remove items from your Recent Activity if you do not want them=
- to be visible to other users. Please take extra care when using these feat=
-ures.
+ an iTunes Product via your Account, including posts prior to opting in. Pe=
+ople whom you have permitted to follow you will be able to see your activit=
+y on the iTunes Store, such as events you are attending, music that you hav=
+e indicated that you like, and purchases made with your Account. Your activ=
+ity on another user's profile, such as comments you make about their activi=
+ty, is subject to that user's privacy settings and can be viewed by all of =
+that user's followers. You are solely responsible for the information that =
+is associated with your Account that is made available on Ping. iTunes may =
+also use information provided, as well as information the iTunes Store send=
+s to iTunes about the content you select in your iTunes library in order to=
+ provide you with Ping personal recommendations, such as suggesting other u=
+sers you may want to follow, concerts and related information, or other iTu=
+nes Products you may want to purchase. By opting in to Ping, you consent to=
+ the use of such information in the manner described above. At all times yo=
+ur information will be treated in accordance with Apple's Privacy Policy. Y=
+ou should not opt in to Ping, or should opt out of Ping in your Account set=
+tings, if you don't want others to view any information provided using your=
+ Account, including activity on the iTunes Store. When you opt out, your in=
+formation will be removed from view, and then deleted after seven days. If =
+you opt out of Ping, or hide the Ping Sidebar, iTunes will no longer send i=
+nformation associated with the content you select in your iTunes library fo=
+r Ping. You will be able to remove items from your Recent Activity if you d=
+o not want them to be visible to other users. Please take extra care when u=
+sing these features.
 
 COMPLETE MY ALBUM ("CMA")
 
@@ -430,10 +468,9 @@ ing number of episodes.
 
 HIGH-DEFINITION (HD) PRODUCTS
 
-HD Products are viewable only on computers, iPad devices, or TVs using your=
- Apple TV; however, HD Products purchased (not rented) include a standard-d=
-efinition version delivered to your computer that may be transferred to you=
-r iPod or iPhone.
+HD Products are viewable only on HD capable devices; however, HD Products p=
+urchased (not rented) include a standard-definition version for use on non-=
+HD devices.
 
 SUBMISSIONS TO THE SERVICE
 
@@ -448,9 +485,10 @@ ecessary rights and licenses. You agree to provide accurate and complete in=
 formation in connection with your submission of any materials on the Servic=
 e. You hereby grant iTunes a worldwide, perpetual, royalty-free, nonexclusi=
 ve license to use such materials as part of the Service, and in relation to=
- Products, without any compensation or obligation to you. iTunes reserves t=
-he right to not post or publish any materials, and to remove or edit any ma=
-terial, at any time in its sole discretion without notice or liability.
+ iTunes Products, without any compensation or obligation to you. iTunes res=
+erves the right to not post or publish any materials, and to remove or edit=
+ any material, at any time in its sole discretion without notice or liabili=
+ty.
 
 iTunes has the right, but not the obligation, to monitor any materials subm=
 itted by you or otherwise available on the Service, to investigate any repo=
@@ -461,15 +499,15 @@ on, termination hereunder or under Apple=E2=80=99s Copyright Policy (http:/=
 
 THIRD-PARTY MATERIALS
 
-Certain content, Products, and services available via the Service may inclu=
-de materials from third parties. iTunes may provide links to third-party we=
-bsites as a convenience to you. You agree that iTunes is not responsible fo=
-r examining or evaluating the content or accuracy and iTunes does not warra=
-nt and will not have any liability or responsibility for any third-party ma=
-terials or websites, or for any other materials, products, or services of t=
-hird parties. You agree that you will not use any third-party materials in =
-a manner that would infringe or violate the rights of any other party and t=
-hat iTunes is not in any way responsible for any such use by you.
+Certain content, iTunes Products, and services available via the Service ma=
+y include materials from third parties. iTunes may provide links to third-p=
+arty websites as a convenience to you. You agree that iTunes is not respons=
+ible for examining or evaluating the content or accuracy and iTunes does no=
+t warrant and will not have any liability or responsibility for any third-p=
+arty materials or websites, or for any other materials, products, or servic=
+es of third parties. You agree that you will not use any third-party materi=
+als in a manner that would infringe or violate the rights of any other part=
+y and that iTunes is not in any way responsible for any such use by you.
 
 OBJECTIONABLE MATERIAL
 
@@ -483,28 +521,28 @@ ability to you for material that may be found to be offensive, indecent, or=
 
 INTELLECTUAL PROPERTY
 
-You agree that the Service, including but not limited to Products, graphics=
-, user interface, audio clips, video clips, editorial content, and the scri=
-pts and software used to implement the Service, contains proprietary inform=
-ation and material that is owned by iTunes and/or its licensors, and is pro=
-tected by applicable intellectual property and other laws, including but no=
-t limited to copyright. You agree that you will not use such proprietary in=
-formation or materials in any way whatsoever except for use of the Service =
-in compliance with this Agreement. No portion of the Service may be reprodu=
-ced in any form or by any means, except as expressly permitted in these ter=
-ms. You agree not to modify, rent, lease, loan, sell, distribute, or create=
- derivative works based on the Service in any manner, and you shall not exp=
-loit the Service in any unauthorised way whatsoever, including, but not lim=
-ited to, by trespass or burdening network capacity.
+You agree that the Service, including but not limited to iTunes Products, g=
+raphics, user interface, audio clips, video clips, editorial content, and t=
+he scripts and software used to implement the Service, contains proprietary=
+ information and material that is owned by iTunes and/or its licensors, and=
+ is protected by applicable intellectual property and other laws, including=
+ but not limited to copyright. You agree that you will not use such proprie=
+tary information or materials in any way whatsoever except for use of the S=
+ervice in compliance with this Agreement. No portion of the Service may be =
+reproduced in any form or by any means, except as expressly permitted in th=
+ese terms. You agree not to modify, rent, lease, loan, sell, distribute, or=
+ create derivative works based on the Service in any manner, and you shall =
+not exploit the Service in any unauthorised way whatsoever, including, but =
+not limited to, by trespass or burdening network capacity.
 
 Notwithstanding any other provision of this Agreement, iTunes and its licen=
 sors reserve the right to change, suspend, remove, or disable access to any=
- Products, content, or other materials that are offered by the Service with=
-out notice. In no event will iTunes be liable for making these changes. iTu=
-nes may also impose limits on the use of or access to certain features or p=
-ortions of the Service, in any case and without notice or liability. Remova=
-l of content from the Service will not affect products that you have alread=
-y acquired from the Service.
+ iTunes Products, content, or other materials that are offered by the Servi=
+ce without notice. In no event will iTunes be liable for making these chang=
+es. iTunes may also impose limits on the use of or access to certain featur=
+es or portions of the Service, in any case and without notice or liability.=
+ Removal of content from the Service will not affect products that you have=
+ already acquired from the Service.
 
 iTunes and/or its licensors own the copyright in the Service, including the=
  compilation of content, postings, links to other Internet resources, and d=
@@ -548,10 +586,10 @@ r any part or content thereof) at any time and iTunes will not be liable to=
  you or to any third party should it exercise such rights. To the extent po=
 ssible, iTunes will warn you in advance of any modification, suspension or =
 discontinuance of the Service. Termination of the Service will not affect t=
-he Products that you have already acquired. However, you may be unable to a=
-uthorise additional computers to use the Products.
+he iTunes Products that you have already acquired. However, you may be unab=
+le to authorise additional computers to use the iTunes Products.
 
-DISCLAIMER OF WARRANTIES; LIABILITY LIMITATION
+DISCLAIMER OF WARRANTIES; LIABILITY LIMITATIONS
 
 a. iTunes will provide the Service with reasonable care and skill. iTunes d=
 oes not make any other promises or warranties about the Service and in part=
@@ -565,8 +603,8 @@ asons and will, to the extent practicable, notify you of this;
 (ii) the Service will be free from loss, corruption, attack, viruses, inter=
 ference, hacking, or other security intrusion which shall be events of Forc=
 e Majeure, and iTunes disclaims any liability relating thereto. You shall b=
-e responsible for backing up your own system, including any Products purcha=
-sed from the Service that are stored in your system.
+e responsible for backing up your own system, including any iTunes Products=
+ purchased from the Service.
 
 b. Except as set out in (d) below, or in the event that you are exercising =
 any applicable statutory right to refund or compensation, in no case shall =
@@ -619,15 +657,15 @@ MISCELLANEOUS
 This Agreement constitutes the entire agreement between you and iTunes and =
 governs your use of the Service, superseding any prior agreements between y=
 ou and iTunes. You also may be subject to additional terms and conditions t=
-hat may apply when you use affiliate services, third-party content, or thir=
-d-party software. If any part of this Agreement is held invalid or unenforc=
-eable, that portion shall be construed in a manner consistent with applicab=
-le law to reflect, as nearly as possible, the original intentions of the pa=
-rties, and the remaining portions shall remain in full force and effect. iT=
-unes=E2=80=99 failure to enforce any right or provisions in this Agreement =
-will not constitute a waiver of such or any other provision. iTunes will no=
-t be responsible for failures to fulfill any obligations due to causes beyo=
-nd its control.
+hat may apply when you use affiliate services, certain iTunes Products, thi=
+rd-party content, or third-party software. If any part of this Agreement is=
+ held invalid or unenforceable, that portion shall be construed in a manner=
+ consistent with applicable law to reflect, as nearly as possible, the orig=
+inal intentions of the parties, and the remaining portions shall remain in =
+full force and effect. iTunes=E2=80=99 failure to enforce any right or prov=
+isions in this Agreement will not constitute a waiver of such or any other =
+provision. iTunes will not be responsible for failures to fulfill any oblig=
+ations due to causes beyond its control.
 
 The Service is operated by iTunes from its offices in Luxembourg. You agree=
  to comply with all local, state, federal, and national laws, statutes, ord=
@@ -647,9 +685,9 @@ rcement authorities, government officials, and/or a third party, as iTunes =
 believes is reasonably necessary or appropriate to enforce and/or verify co=
 mpliance with any part of this Agreement (including but not limited to iTun=
 es=E2=80=99 right to cooperate with any legal process relating to your use =
-of the Service and/or Products, and/or a third-party claim that your use of=
- the Service and/or Products is unlawful and/or infringes such third party'=
-s rights).
+of the Service and/or iTunes Products, and/or a third-party claim that your=
+ use of the Service and/or iTunes Products is unlawful and/or infringes suc=
+h third party's rights).
 
 About iTunes: Our registered number is RCS Luxembourg B 101 120 and our reg=
 istered office is at 8 rue Heinrich Heine, L-1720 Luxembourg.
@@ -660,12 +698,14 @@ THIS LEGAL AGREEMENT BETWEEN YOU AND ITUNES SARL ("ITUNES") GOVERNS YOUR US=
 E OF THE MAC APP STORE, APP STORE AND IBOOKSTORE (=E2=80=9CSTORES=E2=80=9D)=
  AND THE PURCHASE OF LICENCES FROM THEM, WHICH ARE SOLD TO YOU BY ITUNES.
 
-THE MAC APP STORE, APP STORE AND IBOOKSTORES
+THE MAC APP STORE, APP STORE AND IBOOKSTORE
 
 iTunes is the provider of the Stores that permit you to purchase from iTune=
-s licences to software products and digital content (the =E2=80=9CProducts=
-=E2=80=9D) for end user use only under the terms and conditions set forth i=
-n this Agreement.
+s licences to software products from the App Store and Mac App Store (toget=
+her, =E2=80=9CApp Store Products=E2=80=9D) and digital book content (the =
+=E2=80=9CiBookstore Products=E2=80=9D) for end user use only under the term=
+s and conditions set forth in this Agreement.  App Store Products and iBook=
+store Products shall be referred to together as =E2=80=9CProducts=E2=80=9D.
 
 REQUIREMENTS FOR USE OF THE STORES
 
@@ -681,13 +721,14 @@ se technologies to verify your compliance.
 Use of the Stores requires compatible devices, Internet access, and certain=
  software (fees may apply); may require periodic updates; and may be affect=
 ed by the performance of these factors. High-speed Internet access is stron=
-gly recommended. The latest version of the iTunes and Mac App Store softwar=
-e is recommended to access the Stores and may be required for certain trans=
-actions or features and to download Products previously purchased from the =
-Stores. You agree that these requirements, which may change from time to ti=
-me, are your responsibility. The Stores are not part of any other product o=
-r offering, and no purchase or obtaining of any other product shall be cons=
-trued to represent or guarantee you access to the Stores.
+gly recommended. The latest versions of required software (including, but n=
+ot limited to, iTunes and Mac App Store software) are recommended to access=
+ the Stores and may be required for certain transactions or features and to=
+ download Products previously purchased from the Stores. You agree that the=
+se requirements, which may change from time to time, are your responsibilit=
+y. The Stores are not part of any other product or offering, and no purchas=
+e or obtaining of any other product shall be construed to represent or guar=
+antee you access to the Stores.
 
 YOUR ACCOUNT
 
@@ -699,11 +740,67 @@ ou agree to immediately notify iTunes of any security breach of your Accoun=
 t. iTunes shall not be responsible for any losses arising out of the unauth=
 orised use of your Account.
 
+In order to purchase and download App Store Products from the Stores, you m=
+ust enter your Apple ID and password to authenticate your Account.  Once yo=
+u have authenticated your Account, you will not need to authenticate again =
+for fifteen minutes.  During this time, you will be able to purchase and do=
+wnload App Store Products without re-entering your password.  You can turn =
+off the ability to make App Store Product purchases by adjusting the settin=
+gs on your computer or iOS Device.  For more information, please see http:/=
+/support.apple.com/kb/HT1904 or http://support.apple.com/kb/HT4213. =20
+
 You agree to provide accurate and complete information when you register wi=
 th, and as you use, the Stores ("Registration Data"), and you agree to upda=
 te your Registration Data to keep it accurate and complete. You agree that =
 iTunes may store and use the Registration Data you provide for use in maint=
 aining and billing fees to your Account.
+
+AUTOMATIC DELIVERY AND DOWNLOADING PREVIOUS PURCHASES
+
+When you first acquire Products (excluding products acquired from the Mac A=
+pp Store) through the Stores (collectively, =E2=80=9CEligible Content=E2=80=
+=9D), you may elect to automatically receive (=E2=80=9Cauto-download=E2=80=
+=9D) copies of such Eligible Content on additional iTunes-authorised comput=
+ers and iOS Devices with compatible software by associating such computers =
+and iOS Devices subject to the association rules below (each, an =E2=80=9CA=
+ssociated Device=E2=80=9D).  For each Associated Device, you may specify wh=
+ich type of Eligible Content, if any, may be auto-downloaded to it.  On an =
+Associated Device that is capable of receiving push notifications (=E2=80=
+=9CPush-Enabled=E2=80=9D), including iOS Devices, the Products will auto-do=
+wnload to that Associated Device when it has an Internet connection; on an =
+Associated Device that is not Push-Enabled, including those running on the =
+Windows operating system, Eligible Content will automatically appear in the=
+ download queue and you may manually initiate the download within iTunes.
+
+As an accommodation to you, subsequent to acquiring Eligible Content, you m=
+ay download certain of such previously purchased Eligible Content onto any =
+Associated Device.  Some Eligible Content that you previously purchased may=
+ not be available for subsequent download at any given time, and iTunes sha=
+ll have no liability to you in such event.  As you may not be able to subse=
+quently download certain previously purchased Eligible Content, once you do=
+wnload an item of Eligible Content, it is your responsibility not to lose, =
+destroy, or damage it, and you may want to back it up.=20
+
+Association of Associated Devices is subject to the following terms:
+
+(i)=09You may auto-download Eligible Content or download previously purchas=
+ed Eligible Content from an Account on up to 10 Associated Devices, provide=
+d no more than 5 are iTunes-authorised computers.
+
+(ii)=09An Associated Device can be associated with only one Account at any =
+given time. =20
+
+(iii)=09You may switch an Associated Device to a different Account only one=
+ every 90 days.
+
+(iv)=09You may download previously purchased free content onto an unlimited=
+ number of devices while it is free on the Stores, but no more than 5 iTune=
+s-authorised computers.
+
+The above terms (i) to (iv) do not apply to App Store Products.
+
+Some pieces of Eligible Content may be large, and significant data charges =
+may result from delivery of such Eligible Content over a data connection.
 
 PRIVACY
 
@@ -711,14 +808,6 @@ Except as otherwise stated in this Agreement, the Stores are subject to App=
 le's Privacy Policy at http://www.apple.com/uk/privacy/.
 
 USE OF PRODUCTS AND THE STORES
-
-Solely as an accommodation to you, you may re-download certain Products for=
- use in accordance with the Usage Rules. Not all Products are eligible for =
-this accommodation or may be available at any given time. iTunes shall have=
- no liability to you in the event that a previously downloaded Product beco=
-mes unavailable for re-download. Once a Product is downloaded, it is your r=
-esponsibility not to lose, destroy, or damage it, and iTunes shall not be l=
-iable to you if you do so.
 
 iTunes is selling you a licence to use the Products. Once purchased from iT=
 unes, that licence forms a binding agreement directly between you and the p=
@@ -748,14 +837,14 @@ rolled and monitored by iTunes for compliance purposes, and iTunes reserves=
 
 STORE SECURITY
 
-You agree not to access the Stores by any means other than through software=
- that is provided by Apple Inc. or its affiliated group companies (=E2=80=
-=9CApple=E2=80=9D) for accessing the Stores. You shall not access or attemp=
-t to access an Account that you are not authorised to access. You agree not=
- to modify the software that is provided by Apple to access the Stores in a=
-ny manner or form, or to use modified versions of the software, for any pur=
-poses including obtaining unauthorised access to the Stores. Violations of =
-system or network security may result in civil or criminal liability.
+You agree not to access the Stores by any means other than through use of s=
+oftware provided by Apple Inc. or its affiliated group companies (=E2=80=9C=
+Apple=E2=80=9D) for accessing the Stores. You agree not to modify the softw=
+are that is provided by Apple to access the Stores in any manner or form, o=
+r to use modified versions of the software, for any purposes including obta=
+ining unauthorised access to the Stores. You shall not access or attempt to=
+ access an Account that you are not authorised to access. Violations of sys=
+tem or network security may result in civil or criminal liability.
 
 The delivery of Products does not transfer to you any promotional use right=
 s in the Products.
@@ -781,7 +870,8 @@ l, royalty-free, nonexclusive license to use such materials as part of the =
 Stores, and in relation to Products, without any compensation or obligation=
  to you. iTunes reserves the right to not post or publish any materials, an=
 d to remove or edit any material, at any time in its sole discretion withou=
-t notice or liability.
+t notice or liability.  You may not submit reviews or ratings for App Store=
+ Products downloaded using a promotional Content Code.
 
 iTunes has the right, but not the obligation, to monitor any materials subm=
 itted by you or otherwise available on the Stores, to investigate any repor=
@@ -845,13 +935,13 @@ es on the intellectual property rights of others and may subject you to civ=
 il and criminal penalties, including possible monetary damages, for copyrig=
 ht infringement.
 
-Apple, the Apple logo, iTunes, and other Apple trademarks, service marks, g=
-raphics, and logos used in connection with the Stores are trademarks or reg=
-istered trademarks of Apple Inc. in the U.S. and/or other countries. Other =
-trademarks, service marks, graphics, and logos used in connection with the =
-Stores may be the trademarks of their respective owners. You are granted no=
- right or license with respect to any of the aforesaid trademarks and any u=
-se of such trademarks.
+Apple, the Apple logo, iTunes, App Store, and other Apple trademarks, servi=
+ce marks, graphics, and logos used in connection with the Stores are tradem=
+arks or registered trademarks of Apple Inc. in the U.S. and/or other countr=
+ies. Other trademarks, service marks, graphics, and logos used in connectio=
+n with the Stores may be the trademarks of their respective owners. You are=
+ granted no right or license with respect to any of the aforesaid trademark=
+s and any use of such trademarks.
 
 TERMINATION
 
@@ -884,9 +974,10 @@ ns and will, to the extent practicable, notify you of this;
 
 (ii) the Stores will be free from loss, corruption, attack, viruses, interf=
 erence, hacking, or other security intrusion which shall be events of Force=
- Majeure, and iTunes disclaims any liability relating thereto. You shall be=
- responsible for backing up your own system, including any Products purchas=
-ed from the Stores that are stored in your system.
+ Majeure, and iTunes disclaims any liability relating thereto. Some Product=
+s can only be downloaded once; after being downloaded, they cannot be repla=
+ced if lost for any reason. You shall be responsible for backing up your ow=
+n system, including any Products purchased from the Stores.
 
 b. Except as set out in (d) below, or in the event that you are exercising =
 any applicable statutory right to refund or compensation, in no case shall =
@@ -939,15 +1030,15 @@ MISCELLANEOUS
 This Agreement constitutes the entire agreement between you and iTunes and =
 governs your use of the Stores, superseding any prior agreements between yo=
 u and iTunes. You also may be subject to additional terms and conditions th=
-at may apply when you use affiliate services, third-party content, or third=
--party software. If any part of this Agreement is held invalid or unenforce=
-able, that portion shall be construed in a manner consistent with applicabl=
-e law to reflect, as nearly as possible, the original intentions of the par=
-ties, and the remaining portions shall remain in full force and effect. iTu=
-nes=E2=80=99 failure to enforce any right or provisions in this Agreement w=
-ill not constitute a waiver of such or any other provision. iTunes will not=
- be responsible for failures to fulfill any obligations due to causes beyon=
-d its control.
+at may apply when you use affiliate services, certain Products, third-party=
+ content, or third-party software. If any part of this Agreement is held in=
+valid or unenforceable, that portion shall be construed in a manner consist=
+ent with applicable law to reflect, as nearly as possible, the original int=
+entions of the parties, and the remaining portions shall remain in full for=
+ce and effect. iTunes=E2=80=99 failure to enforce any right or provisions i=
+n this Agreement will not constitute a waiver of such or any other provisio=
+n. iTunes will not be responsible for failures to fulfill any obligations d=
+ue to causes beyond its control.
 
 The Stores are operated by iTunes from its offices in Luxembourg. You agree=
  to comply with all local, state, federal, and national laws, statutes, ord=
@@ -974,7 +1065,7 @@ rights).
 About iTunes: Our registered number is RCS Luxembourg B 101 120 and our reg=
 istered office is at 8 rue Heinrich Heine, L-1720 Luxembourg.
 
-ADDITIONAL MAC APP STORE AND APP STORE TERMS AND CONDITIONS
+FURTHER MAC APP STORE AND APP STORE TERMS AND CONDITIONS
 
 LICENSE OF MAC APP STORE AND APP STORE PRODUCTS
 
@@ -982,23 +1073,21 @@ iTunes is selling you a licence to use the software products made available=
  through the Mac App Store and App Store (collectively, the =E2=80=9CApp St=
 ore Products=E2=80=9D). There are two (2) categories of App Store Products,=
  as follows: (i) those App Store Products that have been developed by Apple=
-, and which are licensed to you by iTunes (the =E2=80=9CApple Products=E2=
-=80=9D); and (ii) those App Store Products that have been developed, and ar=
-e licensed to you, by a third-party developer (the =E2=80=9CThird-Party Pro=
-ducts=E2=80=9D). The category of a particular App Store Product (Apple Prod=
-uct or Third-Party Product) is identified on the Mac App Store Application =
-or App Store application.
+, and which are licensed to you by iTunes (=E2=80=9CApple Products=E2=80=9D=
+); and (ii) those App Store Products that have been developed, and are lice=
+nsed to you, by a third-party developer (=E2=80=9CThird-Party Products=E2=
+=80=9D). The category of a particular App Store Product (Apple Product or T=
+hird-Party Product) is identified on the Mac App Store Application or App S=
+tore application.
 
 Your license to each App Store Product is subject to the Licensed Applicati=
-on End User License Agreement set forth below. You agree that the terms of =
-the Licensed Application End User License Agreement will apply to each Appl=
-e Product and to each Third-Party Product that you license through the Mac =
-App Store or App Store, unless the App Store Product is covered by a valid =
-end user license agreement entered into between you and the publisher of th=
-e App Store Product (the =E2=80=9CPublisher=E2=80=9D), in which case the Pu=
-blisher=E2=80=99s end user license agreement will apply to that App Store P=
-roduct. The Publisher reserves all rights in and to the App Store Product n=
-ot expressly granted to you.
+on End User License Agreement set forth below, and you agree that such term=
+s will apply unless the App Store Product is covered by a valid end user li=
+cense agreement entered into between you and the publisher of that App Stor=
+e Product (the =E2=80=9CPublisher=E2=80=9D), in which case the Publisher=E2=
+=80=99s end user license agreement will apply to that App Store Product. Th=
+e Publisher reserves all rights in and to the App Store Product not express=
+ly granted to you.
 
 You acknowledge that the license you purchase to each Apple Product that yo=
 u obtain through the Mac App Store or App Store is a binding agreement betw=
@@ -1020,6 +1109,8 @@ s and conditions of the license to any such Third-Party Product, iTunes wil=
 l have the right (and will be deemed to have accepted the right) to enforce=
  such license against you as a third-party beneficiary thereof.
 
+IN-APP PURCHASES
+
 Certain App Store Products may include functionality that enables you to pu=
 rchase additional services, or licenses to additional functionality or cont=
 ent for use within the App Store Product ("In App Purchases"). In App Purch=
@@ -1032,34 +1123,42 @@ n App Purchases are deemed App Store Products, and In App Purchases made wi=
 thin Third-Party Products are deemed Third-Party Products, and treated as s=
 uch, for purposes of these terms and conditions.
 
+In-App Purchases must be authenticated separately by entering your password=
+ when prompted, but once you have authenticated In-App Purchases, you will =
+be able to make additional In-App Purchases for fifteen minutes without re-=
+entering your password.  You can turn off the ability to make In-App Purcha=
+ses on your iOS Device by going to your Settings, selecting =E2=80=9CGenera=
+l=E2=80=9D and then selecting the =E2=80=9CRestrictions=E2=80=9D tab, as ou=
+tlined at http://support.apple.com/kb/HT4213.
+
 IN-APP SUBSCRIPTIONS
 
 Certain App Store Products may include functionality that enables you to pu=
 rchase content on a subscription basis (=E2=80=9CPaid Subscriptions=E2=80=
-=9D).  Paid Subscriptions will automatically renew for the applicable time =
-period you have selected, and your Account will be charged no more than 24-=
-hours prior to the expiration of the current Paid Subscription.  You may ca=
-ncel automatic renewal by selecting Manage App Subscriptions in your Accoun=
-t and selecting the subscription you want to modify.  The auto-renew featur=
-e of the subscription will be turned off if the Publisher increases the pri=
-ce of the subscription.  Certain Paid Subscriptions may offer a free trial =
-prior to purchase.  If you decide to purchase a Paid Subscription prior to =
-the end of the free trial period, your Paid Subscription will start immedia=
-tely.  Also see additional information about the Paid Subscription offer at=
- the point of sale within the App Store Product.  We may ask for your permi=
-ssion to provide the name, email address and postcode listed in your Accoun=
-t to the Publisher so that the Publisher can send you marketing messages ab=
-out its own products in accordance with its privacy policy.  Once the Publi=
-sher has this information, it will be treated in accordance with the Publis=
-her's publicly posted privacy policy. We encourage you to learn about the p=
-rivacy practices of the Publisher before agreeing to give them your persona=
-l information.  For more information, please review the Publisher's privacy=
- policy or contact the Publisher directly.  Refunds (which will be pro-rate=
-d to take into account content included in the Paid Subscription that you h=
-ave already received) are available within 14 calendar days of purchase of =
-the Paid Subscription by completing the e-mail form available at http://www=
-.apple.com/uk/support/itunes/.  No other refunds, returns or cancellations =
-after purchase.
+=9D). Paid Subscriptions will automatically renew for the applicable time p=
+eriod you have selected, and your Account will be charged no more than 24-h=
+ours prior to the expiration of the current Paid Subscription. You may canc=
+el automatic renewal by selecting Manage App Subscriptions in your Account =
+and selecting the subscription you want to modify. The auto-renew feature o=
+f the subscription will be turned off if the Publisher increases the price =
+of the subscription. Certain Paid Subscriptions may offer a free trial prio=
+r to purchase. If you decide to purchase a Paid Subscription prior to the e=
+nd of the free trial period, your Paid Subscription will start immediately.=
+ You should also review additional information about the Paid Subscription =
+offer at the point of sale within the App Store Product. We may ask for you=
+r permission to provide the name, email address and postcode listed in your=
+ Account to the Publisher so that the Publisher can send you marketing mess=
+ages about its own products in accordance with its privacy policy. Once the=
+ Publisher has this information, it will be treated in accordance with the =
+Publisher's publicly posted privacy policy. We encourage you to learn about=
+ the privacy practices of the Publisher before agreeing to give it your per=
+sonal information. For more information, please review the Publisher's priv=
+acy policy or contact the Publisher directly. Refunds (which will be pro-ra=
+ted to take into account content included in the Paid Subscription that you=
+ have already received) are available within 14 calendar days of purchase o=
+f the Paid Subscription by completing the e-mail form available at http://w=
+ww.apple.com/uk/support/itunes/. No other refunds, returns or cancellations=
+ after purchase.
 
 GENIUS FOR APPS
 
@@ -1067,10 +1166,10 @@ When you opt in to the Genius for Apps feature, Apple will, from time to ti=
 me, automatically collect information related to certain of your App Store =
 Products, such as your time spent with each App Store Product and the numbe=
 r of times each App Store Product is launched. This information will be sto=
-red anonymously and not associated with your name or iTunes Account. When y=
-ou use the Genius for Apps feature, Apple will use this information, as wel=
-l as other information, such as your App Store Product download history, to=
- give personalized recommendations to you.
+red anonymously and will not be associated with your name or Account. When =
+you use the Genius for Apps feature, Apple will use this information, as we=
+ll as other information, such as your App Store Product download history, t=
+o give personalized recommendations to you.
 
 Apple may use this information and combine it with aggregated information f=
 rom other users who opt in to this feature, your iTunes Store purchase hist=
@@ -1085,17 +1184,17 @@ d, or use.
 =E2=80=A2 Provide recommendations to other users.
 
 At all times your information will be treated in accordance with Apple=E2=
-=80=99s Customer Privacy Policy.
+=80=99s Privacy Policy.
 
 Once you opt in to the Genius for Apps feature on a Genius-capable system, =
 you will be able to create Genius recommendations on that system.
 
-If you prefer that we do not collect and use information from your system i=
-n this manner, you should not enable the Genius feature. You can opt out at=
- any time by turning off the Genius feature from the App Store Account page=
- on your device. If you have elected to share Genius for Apps information f=
-rom multiple devices and/or systems, you need to turn off the Genius featur=
-e from each device and system to opt out.
+If you prefer that we do not collect and use information from your device o=
+r system in this manner, you should not enable the Genius feature. You can =
+opt out at any time by turning off the Genius feature from the App Store Ac=
+count page on your device. If you have elected to share Genius for Apps inf=
+ormation from multiple devices and/or systems, you need to turn off the Gen=
+ius feature from each device and system to opt out.
 
 MAC APP STORE PRODUCT USAGE RULES
 
@@ -1107,17 +1206,19 @@ ny Apple-branded products running Mac OS X (=E2=80=9CMac Computer=E2=80=9D)=
  that you own or control.
 
 (ii)=09If you are a commercial enterprise or educational institution, you m=
-ay download a Mac App Store Product for use either (a) by a single individu=
-al on each of the Mac Computer(s) that you own or control, or (b) by multip=
-le individuals on a single shared Mac Computer that you own or control.  Fo=
-r example, a single employee may use a Mac App Store Product on both the em=
-ployee=E2=80=99s desktop Mac Computer and laptop Mac Computer, or multiple =
-students may serially use the Mac App Store Product on a single Mac Compute=
-r located at a resource centre or library.
+ay download a Mac App Store Product for use by either (a) a single individu=
+al on each of the Mac Computer(s) used by that individual that you own or c=
+ontrol, or (b) multiple individuals on a single shared Mac Computer that yo=
+u own or control. For example, a single employee may use a Mac App Store Pr=
+oduct on both the employee=E2=80=99s desktop Mac Computer and laptop Mac Co=
+mputer, or multiple students may serially use the Mac App Store Product on =
+a single Mac Computer located at a resource centre or library.  For the sak=
+e of clarity, each Mac Computer used serially by multiple users requires a =
+separate licence.
 
 (iii)=09Use of Mac App Store Products may require sign-in with the Apple ID=
- used to download the Mac App Store Product from the Mac App Store.  Mac Ap=
-p Store Products can be updated through the Mac App Store only.
+ used to download the Mac App Store Product from the Mac App Store. Mac App=
+ Store Products can be updated through the Mac App Store only.
 
 APP STORE PRODUCT USAGE RULES
 
@@ -1126,14 +1227,16 @@ rcial use on any iOS Device you own or control.
 
 (ii)=09If you are a commercial enterprise or educational institution, you m=
 ay download and sync an App Store Product for use by either (a) a single in=
-dividual on one or more iOS Devices you own or control or (b) multiple indi=
-viduals, on a single shared iOS Device you own or control. For example, a s=
-ingle employee may use the App Store Product on both the employee's iPhone =
-and iPad, or multiple students may serially use the App Store Product on a =
-single iPad located at a resource centre or library.
+dividual on one or more iOS Devices used by that individual that you own or=
+ control or (b) multiple individuals, on a single shared iOS Device you own=
+ or control. For example, a single employee may use an App Store Product on=
+ both the employee's iPhone and iPad, or multiple students may serially use=
+ an App Store Product on a single iPad located at a resource centre or libr=
+ary.  For the sake of clarity, each iOS Device used serially by multiple us=
+ers requires a separate licence.
 
 (iii)=09You shall be able to store App Store Products from up to five diffe=
-rent Accounts at a time on compatible iOS Devices.
+rent Accounts at a time on a compatible iOS Device.
 
 (iv)=09You shall be able to manually sync App Store Products from at least =
 one iTunes-authorised device to iOS Devices that have manual sync mode, pro=
@@ -1141,20 +1244,6 @@ vided that the App Store Product is associated with an Account on the prima=
 ry iTunes-authorised device, where the primary iTunes-authorised device is =
 the one that was first synced with the iOS Device or the one that you subse=
 quently designate as primary using the iTunes application.
-
-IMPORTANT SAFETY INFORMATION
-
-To avoid muscle, joint, or eye strain during video game play, you should al=
-ways take frequent breaks from playing, and take a longer rest if you exper=
-ience any soreness, fatigue, or discomfort. A very small percentage of peop=
-le may experience seizures or blackouts when exposed to flashing lights or =
-patterns, including while playing video games or watching videos. Symptoms =
-may include dizziness, nausea, involuntary movements, loss of awareness, al=
-tered vision, tingling, numbness, or other discomforts. Consult a doctor be=
-fore playing video games if you have ever suffered these or similar symptom=
-s, and stop playing immediately and see a doctor if they occur during game =
-play. Parents should monitor their children=E2=80=99s video game play for s=
-igns of symptoms.
 
 IPOD GAMES
 
@@ -1182,21 +1271,20 @@ pp Store Products=E2=80=9D) made available through the Mac App Store and Ap=
 p Store (collectively, the =E2=80=9CApp Stores=E2=80=9D) are licensed, not =
 sold, to you. Your licence to each App Store Product that you obtain throug=
 h the App Stores is subject to your prior acceptance of this Licensed Appli=
-cation End User Licence Agreement, and you agree that the terms of this Lic=
-ensed Application End User Licence Agreement will apply to each App Store P=
+cation End User Licence Agreement (=E2=80=9CStandard EULA=E2=80=9D), and yo=
+u agree that the terms of this Standard EULA will apply to each App Store P=
 roduct that you license through the App Stores, unless that App Store Produ=
 ct is covered by a valid end user licence agreement entered into between yo=
 u and the Publisher of that App Store Product, in which case the terms of t=
 hat separate end user licence agreement will govern. Your licence to any Ap=
-ple Product under this Licensed Application End User Licence Agreement is g=
-ranted by iTunes, and your licence to any Third-Party Product under this Li=
-censed Application End User Licence Agreement is granted by the Publisher o=
-f that Third-Party Product. Any App Store Product that is subject to the li=
-cence granted under this Licensed Application End User Licence Agreement is=
- referred to herein as the =E2=80=9CLicensed Application=E2=80=9D. Publishe=
-r or iTunes as applicable (the =E2=80=9CLicensor=E2=80=9D) reserves all rig=
-hts in and to the Licensed Application not expressly granted to you under t=
-his Licensed Application End User Licence Agreement.
+ple Product under this Standard EULA or separate end user licence agreement=
+ is granted by iTunes, and your licence to any Third-Party Product under th=
+is Standard EULA or separate end user licence agreement is granted by the P=
+ublisher of that Third-Party Product. Any App Store Product that is subject=
+ to the licence granted under this Standard EULA is referred to herein as t=
+he =E2=80=9CLicensed Application=E2=80=9D. Publisher or iTunes as applicabl=
+e (the =E2=80=9CLicensor=E2=80=9D) reserves all rights in and to the Licens=
+ed Application not expressly granted to you under this Standard EULA.
 
 a. Scope of License: This licence granted to you for the Licensed Applicati=
 on by Licensor is limited to a nontransferable license to use the Licensed =
@@ -1249,7 +1337,7 @@ d. Services; Third-Party Materials. The Licensed Application may enable acc=
 ess to Licensor=E2=80=99s and/or third-party services and websites (collect=
 ively and individually, "External Services"). Use of the External Services =
 requires Internet access and use of certain External Services requires you =
-to accept additional terms.=20
+to accept additional terms.
 
 You understand that by using any of the External Services, you may encounte=
 r content that may be deemed offensive, indecent, or objectionable, which c=
@@ -1257,57 +1345,57 @@ ontent may or may not be identified as having explicit language, and that t=
 he results of any search or entering of a particular URL may automatically =
 and unintentionally generate links or references to objectionable material.=
  Nevertheless, you agree to use the External Services at your sole risk and=
- that Licensor shall not have any liability to you for content that may be =
-found to be offensive, indecent, or objectionable.
+ that neither the Licensor nor its agents shall have any liability to you f=
+or content that may be found to be offensive, indecent, or objectionable.
 
 Certain External Services may display, include or make available content, d=
 ata, information, applications or materials from third parties (=E2=80=9CTh=
 ird Party Materials=E2=80=9D) or provide links to certain third party websi=
-tes. By using the External Services, you acknowledge and agree that Licenso=
-r is not responsible for examining or evaluating the content, accuracy, com=
-pleteness, timeliness, validity, copyright compliance, legality, decency, q=
-uality or any other aspect of such Third Party Materials or websites. The L=
-icensor, its officers, affiliates and subsidiaries do not warrant or endors=
-e and do not assume and will not have any liability or responsibility to yo=
-u or any other person for any third party External Services, Third Party Ma=
-terials or websites, or for any other materials, products, or services of t=
-hird parties. Third Party Materials and links to other websites are provide=
-d solely as a convenience to you.=20
+tes. By using the Services, you acknowledge and agree that neither the Lice=
+nsor nor its agents are responsible for examining or evaluating the content=
+, accuracy, completeness, timeliness, validity, copyright compliance, legal=
+ity, decency, quality or any other aspect of such Third Party Materials or =
+websites. The Licensor, its agents, officers, affiliates and subsidiaries d=
+o not warrant or endorse and do not assume and will not have any liability =
+or responsibility to you or any other person for any External Services, Thi=
+rd Party Materials or websites, or for any other materials, products, or se=
+rvices of third parties. Third Party Materials and links to other websites =
+are provided solely as a convenience to you.
 
-Financial information displayed by any External Services is for general inf=
-ormational purposes only and should not be relied on as investment advice. =
-Before executing any securities transaction based on information obtained t=
-hrough the External Services, you should consult with a financial or securi=
-ties professional who is legally qualified to give financial or securities =
-advice in your country or region. Location data provided by any External Se=
-rvices is for basic navigational purposes only and is not intended to be re=
-lied on in situations where precise location information is needed or where=
- erroneous, inaccurate, time-delayed or incomplete location data may lead t=
-o death, personal injury, or property or environmental damage. Neither the =
-Licensor nor any of its content providers guarantees the availability, accu=
-racy, completeness, reliability, or timeliness of stock information, locati=
-on data or any other data displayed by any External Services.
+Financial information displayed by any External Service is for general info=
+rmational purposes only and should not be relied on as investment advice. B=
+efore executing any securities transaction based on information obtained th=
+rough the External Services, you should consult with a financial or securit=
+ies professional who is legally qualified to give financial or securities a=
+dvice in your country or region. Location data provided by any External Ser=
+vice is for basic navigational purposes only and is not intended to be reli=
+ed on in situations where precise location information is needed or where e=
+rroneous, inaccurate, time-delayed or incomplete location data may lead to =
+death, personal injury, or property or environmental damage. Neither the Li=
+censor, its agents nor any of its content providers guarantees the availabi=
+lity, accuracy, completeness, reliability, or timeliness of stock informati=
+on, location data or any other data displayed by any External Services.
 
 You agree that the External Services contain proprietary content, informati=
-on and material that is owned by Licensor and/or its licensors, and is prot=
-ected by applicable intellectual property and other laws, including but not=
- limited to copyright, and that you will not use such proprietary content, =
-information or materials in any way whatsoever except for permitted use of =
-the External Services or in any manner that is inconsistent with the terms =
-of this Licence or that infringes any intellectual property rights of a thi=
-rd party, iTunes or Apple. No portion of the External Services may be repro=
-duced in any form or by any means. You agree not to modify, rent, lease, lo=
-an, sell, distribute, or create derivative works based on the External Serv=
-ices in any manner, and you shall not exploit the External Services in any =
-unauthorised way whatsoever, including, but not limited to, by using the Ex=
-ternal Services to transmit any computer viruses, worms, Trojan horses or o=
-ther malware, or by trespass or burdening network capacity. You further agr=
-ee not to use the External Services in any manner to harass, abuse, stalk, =
-threaten, defame or otherwise infringe or violate the rights of any other p=
-arty, and that the Licensor is not in any way responsible for any such use =
-by you, nor for any harassing, threatening, defamatory, offensive, infringi=
-ng or illegal messages or transmissions that you may receive as a result of=
- using any of the External Services.
+on and material that is owned by Licensor and/or its agents or licensors, a=
+nd is protected by applicable intellectual property and other laws, includi=
+ng but not limited to copyright, and that you will not use such proprietary=
+ content, information or materials in any way whatsoever except for permitt=
+ed use of the External Services or in any manner that is inconsistent with =
+the terms of this Standard EULA or that infringes any intellectual property=
+ rights of a third party, iTunes or Apple. No portion of the External Servi=
+ces may be reproduced in any form or by any means. You agree not to modify,=
+ rent, lease, loan, sell, distribute, or create derivative works based on t=
+he External Services in any manner, and you shall not exploit the External =
+Services in any unauthorised way whatsoever, including, but not limited to,=
+ by using the External Services to transmit any computer viruses, worms, Tr=
+ojan horses or other malware, or by trespass or burdening network capacity.=
+ You further agree not to use the External Services in any manner to harass=
+, abuse, stalk, threaten, defame or otherwise infringe or violate the right=
+s of any other party, and that neither Licensor nor its agents are in any w=
+ay responsible for any such use by you, nor for any harassing, threatening,=
+ defamatory, offensive, infringing or illegal messages or transmissions tha=
+t you may receive as a result of using any of the External Services.
 
 In addition, External Services and Third Party Materials that may be access=
 ed from, displayed on or linked to from the Apple Devices are not available=
@@ -1324,17 +1412,18 @@ y also impose limits on the use of or access to certain External Services, =
 in any case and without notice or liability.
 
 e. NO WARRANTY: Licensor will use reasonable care and skill with respect to=
- the provision of the Licensed Application and any services performed or pr=
-ovided by the Licensor (=E2=80=9CServices=E2=80=9D) to you. Licensor does n=
-ot make any other promises or warranties about the Services and in particul=
-ar does not warrant that:
+ the provision of the Licensed Application and any External Services perfor=
+med or provided by the Licensed Application to you. Licensor does not make =
+any other promises or warranties about the External Services and in particu=
+lar does not warrant that:
 
-(i) your used of the Services will be uninterrupted or error-free;
+(i) your used of the External Services will be uninterrupted or error-free;
 
-(ii) the Services will be free from loss, corruption, attack, viruses, inte=
-rference, hacking, or other security intrusion, and Licensor disclaims any =
-liability relating thereto. You shall be responsible for backing up your ow=
-n system, including any Licensed Application that is stored on your system.
+(ii) the External Services will be free from loss, corruption, attack, viru=
+ses, interference, hacking, or other security intrusion, and Licensor discl=
+aims any liability relating thereto. You shall be responsible for backing u=
+p your own system, including any Licensed Application that is stored on you=
+r system.
 
 f. Limitation of Liability.
 
@@ -1352,9 +1441,9 @@ y any of its employees or agents;
 f this End User Licence Agreement ("Agreement");
 
 (4) it results from a decision by Licensor to warn you, to suspend or termi=
-nate your access to the Services, or to take any other action during the in=
-vestigation of a suspected violation or as a result of Licensor=E2=80=99s c=
-onclusion that a violation of this Agreement has occurred;
+nate your access to the External Services, or to take any other action duri=
+ng the investigation of a suspected violation or as a result of Licensor=E2=
+=80=99s conclusion that a violation of this Agreement has occurred;
 
 (5) it relates to loss of income, business or profits, or any loss or corru=
 ption of data in connection with your use of the Licensed Application.
@@ -1392,7 +1481,7 @@ i. English laws govern this license and your use of the Licensed Applicatio=
 n. Your use of the Licensed Application may also be subject to other local,=
  state, national, or international laws.
 
-ADDITIONAL IBOOKSTORE TERMS AND CONDITIONS
+FURTHER IBOOKSTORE TERMS AND CONDITIONS
 
 LICENSE OF IBOOKSTORE PRODUCTS
 
@@ -1409,6 +1498,10 @@ nsible for that iBookstore Product, the content therein, any warranties to =
 the extent that such warranties have not been disclaimed, and any claims th=
 at you or any other party may have relating to that iBookstore Product or y=
 our use of that iBookstore Product.
+
+You acknowledge that any iBookstore Product purchased on a computer will no=
+t be viewable on any computer, and will be viewable only on an iOS device w=
+ith compatible software.
 
 IBOOKSTORE PRODUCT USAGE RULES
 
@@ -1433,7 +1526,7 @@ unes-authorised device, where the primary iTunes-authorised device is the o=
 ne that was first synced with the device or the one that you subsequently d=
 esignate as primary using iTunes.
 
-Last Updated: 2 February 2011
+Last Updated: 6 June 2011
 
 =E2=80=A2 =E2=80=A2 =E2=80=A2 =E2=80=A2 =E2=80=A2
 
@@ -1450,11 +1543,10 @@ Personal information is data that can be used to uniquely identify or conta=
 ct a single person.
 
 You may be asked to provide your personal information anytime you are in co=
-ntact with Apple or an Apple affiliated company. Apple and it=E2=80=99s aff=
-iliates may share this personal information with each other and use it cons=
-istent with this Privacy Policy. They may also combine it with other inform=
-ation to provide and improve our products, services, content, and advertisi=
-ng.
+ntact with Apple or an Apple affiliated company. Apple and its affiliates m=
+ay share this personal information with each other and use it consistent wi=
+th this Privacy Policy. They may also combine it with other information to =
+provide and improve our products, services, content, and advertising.
 
 Here are some examples of the types of personal information Apple may colle=
 ct and how we may use it.
@@ -1666,15 +1758,15 @@ s a longer retention period is required or permitted by law.
 Access to Personal Information
 
 You can help ensure that your contact information and preferences are accur=
-ate, complete, and up to date by logging in to your account at www.apple.co=
-m/contact/myinfo. For other personal information, we make good faith effort=
-s to provide you with access so you can request that we correct the data if=
- it is inaccurate or delete the data if Apple is not required to retain it =
-by law or for legitimate business purposes. We may decline to process reque=
-sts that are unreasonably repetitive, require disproportionate technical ef=
-fort, jeopardize the privacy of others, are extremely impractical, or for w=
-hich access is not otherwise required by local law. Access, correction, or =
-deletion requests can be made to the regional Privacy email addresses.
+ate, complete, and up to date by logging in to your account at https://appl=
+eid.apple.com/. For other personal information, we make good faith efforts =
+to provide you with access so you can request that we correct the data if i=
+t is inaccurate or delete the data if Apple is not required to retain it by=
+ law or for legitimate business purposes. We may decline to process request=
+s that are unreasonably repetitive, require disproportionate technical effo=
+rt, jeopardize the privacy of others, are extremely impractical, or for whi=
+ch access is not otherwise required by local law. Access, correction, or de=
+letion requests can be made to the regional Privacy email addresses.
 
 Children
 
@@ -1736,13 +1828,13 @@ es for your local Apple Data Controller listed below.
 
 Country or Region - Contact Information
 
-United States=09privacy@apple.com
-Canada=09 =09=09privacy-ca@apple.com
-Latin America=09privacy-la@apple.com
-Europe=09 =09=09privacyeurope@apple.com
-Japan=09 =09=09privacy-japan@apple.com
-Australia=09 =09privacy@apple.com.au
-Asia/Pacific=09privacy@asia.apple.com
+United States=09 http://www.apple.com/privacy/contact/
+Canada=09 http://www.apple.com/privacy/contact/
+Latin America=09 http://www.apple.com/privacy/contact/
+Europe=09 http://www.apple.com/privacy/contact/
+Japan=09 http://www.apple.com/privacy/contact/
+Australia=09 http://www.apple.com/privacy/contact/
+Asia/Pacific=09 http://www.apple.com/privacy/contact/
 
 Apple may update its Privacy Policy from time to time. When we change the p=
 olicy in a material way, a notice will be posted on our website along with =
